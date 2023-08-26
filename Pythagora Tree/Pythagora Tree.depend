@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1641140364 source:d:\desktop\pythagora tree\main.cpp
+	<iostream>
+	"graphics2.h"
+
+1370613880 d:\desktop\pythagora tree\graphics2.h
+
+1370613912 source:d:\desktop\pythagora tree\winbgi2.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"graphics2.h"
+
+1640865757 source:d:\desktop\pythagora tree\fractal_alternant_main.cpp
+	<iostream>
+	"graphics2.h"
+
+1692015600 source:d:\desktop\files\compsci projects archive\pythagora tree\main.cpp
+	<iostream>
+	"graphics2.h"
+
+1692015600 d:\desktop\files\compsci projects archive\pythagora tree\graphics2.h
+
+1692015600 source:d:\desktop\files\compsci projects archive\pythagora tree\winbgi2.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"graphics2.h"
+
